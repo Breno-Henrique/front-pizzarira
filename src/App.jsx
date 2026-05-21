@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-     <h1> home pizzaria</h1>
+     <h1> home pizzaria.</h1>
     </>
   )
 }
