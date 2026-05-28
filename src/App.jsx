@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-     <MeuFuncionario/>
+<MeuFuncionario/>
     </>
   )
 }
